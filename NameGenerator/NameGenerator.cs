@@ -21,7 +21,6 @@ namespace AliElRogbany.NameGenerator
 
             GatherStateTransitions();
             CalculateTransitionProbabilities();
-            PrintMarkovChain();
         }
 
         private void GatherStateTransitions()
